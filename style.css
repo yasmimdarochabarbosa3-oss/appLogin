@@ -1,6 +1,6 @@
 /* Fundo da imagem (coloque sua imagem aqui) */
 body {
-    background-image: url('/img4.webp'); /* Sua imagem de fundo aqui */
+    background-image: url('img4.webp'); /* Sua imagem de fundo aqui */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
